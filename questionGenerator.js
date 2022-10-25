@@ -26,8 +26,8 @@ var questions = [
         answer: "Java/Javascript"
       },
     {
-        title: "_____ checks only for equality in value, whereas ______is a stricter equality test and returns false if either the value or the type of the two variables are different."
-        choices: ["!=,<=", "==,>=", "==,||", "==,==="],
+        title: "_____ checks only for equality in value, whereas ______is a stricter equality test and returns false if either the value or the type of the two variables are different.",
+        choices: ["!=,<=", "==,>=", "===,==", "==,==="],
         answer: "==,==="
      },  
     {
@@ -36,7 +36,7 @@ var questions = [
         answer: "setInterval(function, delay)"
      },
      {
-        title: " What is === operator?"
+        title: " What is === operator?",
         choices: ["Contains", "Almost Equivalant", "Partially Equal", "Strictly Equal"],
         answer: "Strictly Equal"
      },     

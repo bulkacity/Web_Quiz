@@ -6,7 +6,7 @@ html,body{
   }
 
 header {
-    background-color: #817f83;
+    background-color: #1c1b1dad;
 }
   
   #highScores div div{
@@ -37,7 +37,7 @@ header {
   }
   
   #controls{
-    background-color: #41275e;
+    background-color: #63352a56;
   }
   
   
@@ -57,7 +57,7 @@ header {
     /* position:absolute; */
     /* top:16px; */
     left:40px;
-    background-color: #834bc2;
+    background-color: #d10d0d8a;
     color: white;
   }
   
@@ -73,7 +73,7 @@ header {
   
   
   button{
-    background-color:#41275e;
+    background-color:#d10d0dd8;
     color:white;
     border: none;
     padding:5px;
@@ -82,7 +82,7 @@ header {
   }
   
   #intro button:hover{
-    background-color: #613a8d;
+    background-color: #e08f8f;
   }
   
   
@@ -92,7 +92,7 @@ header {
   
   
   #quizHolder button{
-    background-color:#41275e;
+    background-color:#83271bde;
     border-radius:5px;
     color:white;
     margin: 3px 0;
@@ -104,12 +104,12 @@ header {
   }
   
   #quizHolder button:hover{
-    background-color: #613a8d;
+    background-color: #e08f8f;
   }
   
   #scoreIndicator, #errorIndicator{
     border-top: 1px solid #999;
-    color: #41275e;
+    color: #b11f27;
     font-size: 1.3em;
     margin: 0;
     font-style: italic;
