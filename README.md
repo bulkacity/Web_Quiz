@@ -48,7 +48,7 @@ THEN I can save my initials and score
 The remote site is used for display and hosted on GitHub Pages
 
 ##### The remote site is located here:
-*Home Page*<br>[https://github.com/bulkacity/Web_Quiz/settings/pages](https://github.com/bulkacity/Web_Quiz/settings/pages)
+*Home Page*<br>[https://bulkacity.github.io/Web_Quiz/](https://bulkacity.github.io/Web_Quiz/)
 
 ### Screenshot
 
