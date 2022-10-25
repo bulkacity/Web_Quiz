@@ -1,4 +1,4 @@
-// eslint-disable-next-line no-unused-vars
+// The following will generate the questions as objects within an array
 var questions = [
     {
       title: "Commonly used data types DO NOT include:",
@@ -25,5 +25,5 @@ var questions = [
       choices: ["January 1", "December 31", "June 1", "April 23"],
       answer: "January 1"
     },
-    ///etc.
+
   ];
